@@ -18,7 +18,7 @@ const App = () => {
                     <img src='/FD_Header.png' alt='FD_logo' width='50px'/>
                 </div>
                 <div className='text-center bg-danger text-light mt-1'>
-                    <h1>Fay's Dalgona Budget Allocation</h1>
+                    <h1>RKL Insurance</h1> 
                 </div>
                 <div className='row mt-3'>
                     <div className='col-sm'>
